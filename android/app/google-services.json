@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "571191391011",
+    "project_id": "eclipsecrm-264ca",
+    "storage_bucket": "eclipsecrm-264ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571191391011:android:917714ceca636f4224d296",
+        "android_client_info": {
+          "package_name": "com.eclipse.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571191391011-lqa6np0m7lmv1mmv3eeo15bck8m285vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eclipse.vpn",
+            "certificate_hash": "AB7A8210F884C6A04899547BFEC22C298ECE5D4C"
+          }
+        },
+        {
+          "client_id": "571191391011-6nf5ftkpp2kcmk4vnvmpl60luk755eu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnwCCnjp5JYZnfYagLC2_oBwOTaB2ujZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571191391011-6nf5ftkpp2kcmk4vnvmpl60luk755eu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571191391011:android:1606361ba7c1da9a24d296",
+        "android_client_info": {
+          "package_name": "com.eclipsevpn1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571191391011-lqa6np0m7lmv1mmv3eeo15bck8m285vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eclipsevpn1",
+            "certificate_hash": "AB7A8210F884C6A04899547BFEC22C298ECE5D4C"
+          }
+        },
+        {
+          "client_id": "571191391011-6nf5ftkpp2kcmk4vnvmpl60luk755eu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnwCCnjp5JYZnfYagLC2_oBwOTaB2ujZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571191391011-6nf5ftkpp2kcmk4vnvmpl60luk755eu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571191391011:android:19abdd4948def4ca24d296",
+        "android_client_info": {
+          "package_name": "com.eclipsevpn.vpn1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571191391011-lqa6np0m7lmv1mmv3eeo15bck8m285vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eclipsevpn.vpn1",
+            "certificate_hash": "AB7A8210F884C6A04899547BFEC22C298ECE5D4C"
+          }
+        },
+        {
+          "client_id": "571191391011-6nf5ftkpp2kcmk4vnvmpl60luk755eu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnwCCnjp5JYZnfYagLC2_oBwOTaB2ujZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571191391011-6nf5ftkpp2kcmk4vnvmpl60luk755eu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
